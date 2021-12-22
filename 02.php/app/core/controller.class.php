@@ -5,8 +5,6 @@
  */
 
 //require model
-//require_once BASE_PATH . '/app/model/connModel.class.php';
-//require config 如果上面包含了 /app/model/connModel.class.php 则无需包含此 coonfig.php
 require_once BASE_PATH . '/config/config.php';
 require_once BASE_PATH . '/config/manual.config.php';
 
